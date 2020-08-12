@@ -6,6 +6,5 @@
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 💬 Ask me about 
 - 📫 How to reach me: baleshwar.cuk@gmail.com
-- Resume 
 
 
