@@ -5,7 +5,7 @@
 - 🔭 I'm currently looking for full-time opportunities as **software developer** in small to large sized companies .
 - 🌱 I’m currently grinding Leetcode and giving Leetcode contests  for Technical Interview preparation . (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
 - 💻 Solved **200+ problems** on Leetcode Platform
-- 🛠 **Current Tech Stack - Flask , Python , C++ , Git , Sublime Text**
+- 🛠 **Current Tech Stack -HTML , CSS , JavaScript , Flask , Python , C++ , Git , Sublime Text**
 - 📄 You can find my resume [here](https://drive.google.com/file/d/1jm4S6pgY5h30857tRRsmkCUr0ocPpo3j/view ) for more details .
 - 💬 Ask me about getting internships , I'm happy to assist .
 - ✍️ In my free time , I learn new skills and spend quality time with my family and friends .
