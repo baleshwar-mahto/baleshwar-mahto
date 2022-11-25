@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Baleshwar .
 
 
-- 🎓 I graduated from **Central University of Karnataka , Kalaburagi** ( **Integrated Master of Technology** , Electrical Engineering , **Batch of 2022** ).
-- 🔭 I'm currently looking for full-time opportunities as **software developer** in small to large sized companies .
-- 🌱 I’m currently grinding Leetcode and giving Leetcode contests  for Technical Interview preparation . (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
+- 🎓 I graduated from **Central University of Karnataka , Kalaburagi** ( **Integrated B.Tech - M.Tech ** , Electrical Engineering , **Batch of 2022** ).
+- 🔭 I'm currently looking for full-time opportunities as **Junior Data Scientist / Data Analyst** in small to large sized companies .
+- 🌱 I’m currently solving use cases in Kaggle for interview preparation . (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
 - 💻 Solved **200+ problems** on Leetcode Platform
-- 🛠 **Current Tech Stack -HTML , CSS , JavaScript , Flask , Python , C++ , Git , Sublime Text**
-- 📄 You can find my resume [here](https://drive.google.com/file/d/1jm4S6pgY5h30857tRRsmkCUr0ocPpo3j/view ) for more details .
+- 🛠 **Current Tech Stack -Python , SQL , C++ , Numpy , Pandas ,Matplotlib , Scikit-learn , Keras , Flask ,  Git , Linux , Google colab , Sublime Text**
+- 📄 You can find my resume [here](https://drive.google.com/file/d/1EF4WVgQE2PnseDHb0t77XyKf6zeWeb67/view?usp=share_link ) for more details .
 - 💬 Ask me about getting internships , I'm happy to assist .
-- ✍️ In my free time , I learn new skills and spend quality time with my family and friends .
+- ✍️ In my free time , I learn new skills and spend quality time with my family and nature .
 - 📫 How to reach out to me: baleshwar.cuk@gmail.com
 
 
