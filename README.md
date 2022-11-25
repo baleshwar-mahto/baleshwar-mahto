@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Baleshwar .
 
 
-- 🎓 I graduated from **Central University of Karnataka , Kalaburagi** ( **Integrated B.Tech - M.Tech ** , Electrical Engineering , **Batch of 2022** ).
+- 🎓 I graduated from **Central University of Karnataka , Kalaburagi** ( **Integrated B.Tech - M.Tech** , Electrical Engineering , **Batch of 2022** ).
 - 🔭 I'm currently looking for full-time opportunities as **Junior Data Scientist / Data Analyst** in small to large sized companies .
 - 🌱 I’m currently solving use cases in Kaggle for interview preparation . (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
 - 💻 Solved **200+ problems** on Leetcode Platform
