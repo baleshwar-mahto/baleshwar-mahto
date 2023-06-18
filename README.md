@@ -40,6 +40,6 @@
     -- Applied **Tesseract OCR** for License plate recognition and was able to **improve its accuracy by 30% - 40% using image processing techniques.** <br>
 
     -- Deployed **YOLO v4 model** having weight size of **244 MB** in Raspberry Pi 3 B of **1GB RAM** using **Darknet framework** . <br>
-
-
-
+- #### Design Innovation Center ( DIC) Intern | Indian Institute of Technology, Roorkee (Dec 2019 ) <br> 
+    **Discrete-time Sliding Mode Controller Design :**<br>
+    -- Researched about the latest papers on sliding mode control . Designed a discrete-time sliding mode controller for a two-wheeled mobile robot , which is a kind of autonomous guided vehicle , for path tracking of basic paths , namely circular path and straight line path .
