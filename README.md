@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Baleshwar .
 
-
+- 🥅 Currently , I am working as a Junior Software Engineer ( Autonomous Navigation ) @ Aegeus Technologies , Bangalore , India .
 - 🎓 I graduated from **Central University of Karnataka , Kalaburagi** ( **Integrated B.Tech - M.Tech** , Electrical Engineering , **Batch of 2022** ).
-- 🔭 I'm currently looking for full-time opportunities as **Junior Data Scientist / Data Analyst** in small to large sized companies .
-- 🌱 I’m currently solving use cases in Kaggle for interview preparation . (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
-- 💻 Solved **200+ problems** on Leetcode Platform
+- 🔭 I'm currently looking for full-time opportunities as **Senior Software Engineer ( Autonomy )** in small to large sized companies .
+- 💻 Solved **200+ problems** on Leetcode Platform (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
 - 🛠 **Current Tech Stack -Python , SQL , C++ , Numpy , Pandas ,Matplotlib , Scikit-learn , Keras , Flask ,  Git , Linux , Google colab , Sublime Text**
 - 📄 You can find my resume [here](https://drive.google.com/file/d/1EF4WVgQE2PnseDHb0t77XyKf6zeWeb67/view?usp=share_link ) for more details .
 - 💬 Ask me about getting internships , I'm happy to assist .
@@ -14,7 +13,20 @@
 
 ---
 ### Experiences
-- #### M.Tech Researcher ( ML & Cloud ) | Central University of Karnataka ( Aug 2021 - Present ) <br>
+- #### Junior Software Engineer ( Autonomous Navigation ) | Aegeus Technologies , Bangalore , India ( Feb 2023 - Present ) <br>
+  **1. Shreem Autonomous Robot :**<br>
+-- Independently implemented Epsilon Star algorithm in Python for online coverage path planning of unknown environment to navigate autonomously in an inclined rectangular island of solar panels . <br>
+-- Done research work and read research papers in related domains and suggested optimal method for development . <br>
+-- Derived mathematically the angle of inclined solar panels with ground in terms of roll and pitch angles provided by IMU ( Inertial Measurement Unit ) sensor to compute the required traction for auto-hold functionality on inclined solar panels . <br>
+
+  **2. Shreem Remote Controlled ( RC ) Robot :**<br>
+-- Created the initial documentation for the Shreem Remote controlled robot through reverse engineering .<br>
+
+  **3. Unicorn Fully-automatic Robot :**<br>
+-- Assisted Lead Engineer in troubleshooting 42 control panels ( Control Unit ) of the Unicorn fully-automatic robot .<br>
+-- Created root cause analysis ( RCA ) report on the failures of the control panels at that specific site and suggested optimal methods to further stablize it .<br>
+
+- #### M.Tech Researcher ( ML & Cloud ) | Central University of Karnataka ( Aug 2021 - July 2022 ) <br>
     -- Working on the **solar energy generation forecasting using Hybrid methods** and its deployment in the **Heroku cloud platform** . The motive of this research is to enhance the accuracy of the existing state of the art forecasting models using new emerging techniques and create a user interface for others to interact with my model .
     
 - #### Project Intern ( Reinforcement Learning ) | Indian Institute of Technology, Roorkee ( Dec 2020 - Jun 2021 ) <br>
