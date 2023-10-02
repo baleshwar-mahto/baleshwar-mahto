@@ -25,6 +25,7 @@
   **3. Unicorn Fully-automatic Robot :**<br>
 -- Assisted Lead Engineer in troubleshooting 42 control panels ( Control Unit ) of the Unicorn fully-automatic robot .<br>
 -- Created root cause analysis ( RCA ) report on the failures of the control panels at that specific site and suggested optimal methods to further stablize it .<br>
+-- Contributed code to multiple Unicorn robot related projects for new features enhancement and enabling wireless communication between the robot and remote monitoring station . (Modbus RTU & LoRaWAN ) 
 
 - #### M.Tech Researcher ( ML & Cloud ) | Central University of Karnataka ( Aug 2021 - July 2022 ) <br>
     -- Working on the **solar energy generation forecasting using Hybrid methods** and its deployment in the **Heroku cloud platform** . The motive of this research is to enhance the accuracy of the existing state of the art forecasting models using new emerging techniques and create a user interface for others to interact with my model .
