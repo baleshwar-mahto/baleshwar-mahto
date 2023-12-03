@@ -13,7 +13,7 @@
 
 ---
 ### Experiences
-- #### Junior Software Engineer ( Autonomous Navigation ) | Aegeus Technologies , Bangalore , India ( Feb 2023 - Present ) <br>
+- #### Junior Software Engineer ( Autonomy ) | Aegeus Technologies , Bangalore , India ( Feb 2023 - Present ) <br>
   **1. Shreem Autonomous Robot :**<br>
 -- Independently implemented Epsilon Star algorithm in Python for online coverage path planning of unknown environment to navigate autonomously in an inclined rectangular island of solar panels . <br>
 -- Done research work and read research papers in related domains and suggested optimal method for development . <br>
