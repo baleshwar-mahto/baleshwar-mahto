@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Baleshwar .
 
-- 🥅 Currently , I am working as a Junior Software Engineer ( Autonomous Navigation ) @ Aegeus Technologies , Bangalore , India .
+- 🥅 Currently , I am working as a Software Engineer ( Autonomous Navigation ) @ Aegeus Technologies , Bangalore , India .
 - 🎓 I graduated from **Central University of Karnataka , Kalaburagi** ( **Integrated B.Tech - M.Tech** , Electrical Engineering , **Batch of 2022** ).
 - 🔭 I'm currently looking for full-time opportunities as **Senior Software Engineer ( Autonomy )** in small to large sized companies .
 - 💻 Solved **200+ problems** on Leetcode Platform (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
@@ -13,7 +13,7 @@
 
 ---
 ### Experiences
-- #### Junior Software Engineer ( Autonomy ) | Aegeus Technologies , Bangalore , India ( Feb 2023 - Present ) <br>
+- #### Software Engineer ( Autonomy ) | Aegeus Technologies , Bangalore , India ( Feb 2023 - Present ) <br>
   **1. Shreem Autonomous Robot :**<br>
 -- Co-implemented Epsilon Star algorithm in Python for online coverage path planning of unknown environment to navigate autonomously in an inclined rectangular island of solar panels . <br>
 -- Done research work and read research papers in related domains and suggested optimal method for development . <br>
