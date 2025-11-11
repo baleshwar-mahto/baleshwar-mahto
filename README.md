@@ -23,9 +23,13 @@
 -- Created the initial documentation for the Shreem Remote controlled robot through reverse engineering .<br>
 
   **3. Unicorn Fully-automatic Robot :**<br>
--- Assisted Lead Engineer in troubleshooting 42 control panels ( Control Unit ) of the Unicorn fully-automatic robot .<br>
--- Created root cause analysis ( RCA ) report on the failures of the control panels at that specific site and suggested optimal methods to further stablize it .<br>
--- Contributed code to multiple Unicorn robot related projects for new features enhancement and enabling wireless communication between the robot and remote monitoring station . (Modbus RTU & LoRaWAN ) 
+-- Led a small team to develop the complete HMI / SCADA system ( Supervisory Control & Data Acquisition ) for the remote operation of Unicorn robot with features of Block-wise triggering , report generation , Running Status of Robots & Online / Offline status of robots , gateways and Network Server.<br>
+-- Created root cause analysis ( RCA ) report on the failures of the control panels at sites and suggested optimal methods to further stablize it .<br>
+-- Contributed code to multiple Unicorn robot related projects for new features enhancement and enabling wireless communication between the robot and remote monitoring station . (Modbus RTU & LoRaWAN ) and performed SCADA Integration of 1000 robots with Inverter SCADA system .<br>
+  **4. Asset Gaurd Robot :**<br>
+-- Performed Sensor integration of the robot from scratch with YDLIDAR X4 PRO , GPS RTK , OAK-T Thermal + RGB Camera and eMeet 4K Webcam for mapping & navigation inside a solar plant .<br>
+-- Developed a local Area Network ( LAN ) with router and outdoor access points to send the live thermal and RGB video from the robot to the Main Control Room ( MCR ) using WiFi repeaters.<br>
+-- Gained extensive experience with rapid prototyping and end to end to product development from scratch.<br>
 
 - #### M.Tech Researcher ( ML & Cloud ) | Central University of Karnataka ( Aug 2021 - July 2022 ) <br>
     -- Working on the **solar energy generation forecasting using Hybrid methods** and its deployment in the **Heroku cloud platform** . The motive of this research is to enhance the accuracy of the existing state of the art forecasting models using new emerging techniques and create a user interface for others to interact with my model .
