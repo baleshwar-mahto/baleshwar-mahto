@@ -13,7 +13,12 @@
 
 ---
 ### Experiences
-- #### Software Engineer ( Autonomy ) | Aegeus Technologies , Bangalore , India ( Feb 2023 - Present ) <br>
+- #### Embedded Systems Engineer ( Autonomy ) | Source Asia Supply Pvt Ltd , Bengaluru , India ( Nov 2025 - Present ) <br>
+  --**Source Load :**  Our team built an electronic stock monitoring system that monitors the stock level of each smart bin inside it using BLE protocol and provides access to it using RFID based system which is authenticated from Cloud . <br>
+--**Source Load Cloud Integration :** : Created the deployment environment for MQTT client and integrated the "Source Load" to Azure Server using MQTT protocol for real time stock monitoring 24 x 7 and cloud based access to monitor every single transaction . <br>
+--**Source Load Deployment :** Deployed "Source Load "systems initially in offline mode & then brought in online mode for real time 24 x 7 transaction monitoring . <br>
+
+- #### Software Engineer ( Autonomy ) | Aegeus Technologies Ltd , Bengaluru , India ( Feb 2023 - Nov 2025 ) <br>
   **1. Shreem Autonomous Robot :**<br>
 -- Co-implemented Epsilon Star algorithm in Python for online coverage path planning of unknown environment to navigate autonomously in an inclined rectangular island of solar panels . <br>
 -- Done research work and read research papers in related domains and suggested optimal method for development . <br>
