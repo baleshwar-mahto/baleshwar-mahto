@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Baleshwar .
 
-- 🥅 Currently , I am working as Embedded Engineer @ Source Asia , Bangalore , India .
+- 🥅 Currently , I am working as Embedded Systems Engineer @ Source Asia , Bengaluru , India .
 - 🎓 I graduated from **Central University of Karnataka , Kalaburagi** ( **Integrated B.Tech - M.Tech** , Electrical Engineering , **Batch of 2022** ).
 - 🔭 I'm currently looking for full-time opportunities as **Senior Software Engineer ( Autonomy )** in small to large sized companies .
 - 💻 Solved **200+ problems** on Leetcode Platform (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
