@@ -30,7 +30,7 @@
   **3. Unicorn Fully-automatic Robot :**<br>
 -- Led a small team to develop the complete HMI / SCADA system ( Supervisory Control & Data Acquisition ) for the remote operation of Unicorn robot with features of Block-wise triggering , report generation , Running Status of Robots & Online / Offline status of robots , gateways and Network Server.<br>
 -- Created root cause analysis ( RCA ) report on the failures of the control panels at sites and suggested optimal methods to further stablize it .<br>
--- Contributed code to multiple Unicorn robot related projects for new features enhancement and enabling wireless communication between the robot and remote monitoring station . (Modbus RTU & LoRaWAN ) and performed SCADA Integration of 1000 robots with Inverter SCADA system .<br>
+-- Contributed code to multiple Unicorn robot related projects for new features enhancement and enabling wireless communication between the robot and remote monitoring station . (Modbus RTU & LoRaWAN ) and performed SCADA Integration of 1000 robots with Inverter SCADA system in 200 MW Solar Plant.<br>
   **4. Asset Gaurd Robot :**<br>
 -- Performed Sensor integration of the robot from scratch with YDLIDAR X4 PRO , GPS RTK , OAK-T Thermal + RGB Camera and eMeet 4K Webcam for mapping & navigation inside a solar plant .<br>
 -- Developed a local Area Network ( LAN ) with router and outdoor access points to send the live thermal and RGB video from the robot to the Main Control Room ( MCR ) using WiFi repeaters.<br>
