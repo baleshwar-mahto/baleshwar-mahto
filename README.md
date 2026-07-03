@@ -2,9 +2,9 @@
 
 - 🥅 Currently , I am working as Sr.Embedded Systems Engineer at InduSustain Systems
 - 🎓 I graduated from **Central University of Karnataka , Kalaburagi** ( **Integrated B.Tech - M.Tech** , Electrical Engineering , **Batch of 2022** ).
-- 🔭 I'm currently looking for full-time opportunities as **Senior Software Engineer ( Autonomy )** in small to large sized companies .
+- 🔭 I'm currently looking for full-time opportunities as **Full-Stack IoT Engineer** in small to large sized companies .
 - 💻 Solved **200+ problems** on Leetcode Platform (Leetcode profile - [@baleshwar-mahto](https://leetcode.com/baleshwar-mahto/ ) )
-- 🛠 **Current Tech Stack -Python , SQL , C++ , Numpy , Pandas ,Matplotlib , Scikit-learn , Keras , Flask ,  Git , Linux , Google colab , Sublime Text**
+- 🛠 **Current Tech Stack - C++ , Python , KiCAD , AWS , Azure , GCP ,ChirpStack ,Linux Shell , Raspberry Pi OS , Embedded OS , Git , Linux ,Arduino IDE , Figma**
 - 📄 You can find my resume [here](https://drive.google.com/file/d/1EF4WVgQE2PnseDHb0t77XyKf6zeWeb67/view?usp=share_link ) for more details .
 - 💬 Ask me about getting internships , I'm happy to assist .
 - ✍️ In my free time , I learn new skills and spend quality time with my family and nature .
@@ -14,9 +14,9 @@
 ---
 ### Experiences
 - #### Embedded Systems Lead | Source Asia Supply Pvt Ltd , Bengaluru , India ( Nov 2025 - Jan 2026 ) <br>
-  --**Source Load :**  Our team built an electronic stock monitoring system that monitors the stock level of each smart bin inside it using BLE protocol and provides access to it using RFID based system which is authenticated from Cloud . <br>
---**Source Load Cloud Integration :** : Created the deployment environment for MQTT client and integrated the "Source Load" to Azure Server using MQTT protocol for real time stock monitoring 24 x 7 and cloud based access to monitor every single transaction . <br>
---**Source Load Deployment :** Deployed "Source Load "systems initially in offline mode & then brought in online mode for real time 24 x 7 transaction monitoring . <br>
+  --**Source Stock :**  Our team built an electronic stock monitoring system that monitors the stock level of each smart bin inside it using BLE protocol and provides access to it using RFID based system which is authenticated from Azure Cloud . <br>
+--**Source Stock Cloud Integration :** : Created the deployment environment for MQTT client and integrated the "Source Load" to Azure Server using MQTT protocol for real time stock monitoring 24 x 7 and cloud based access to monitor every single transaction . <br>
+--**Source Stock Deployment :** Deployed "Source Load "systems initially in offline mode & then brought in online mode for real time 24 x 7 transaction monitoring . <br>
 
 - #### Software Engineer ( Autonomy ) | Aegeus Technologies Ltd , Bengaluru , India ( Feb 2023 - Nov 2025 ) <br>
   **1. Shreem Autonomous Robot :**<br>
